@@ -1,2 +1,2 @@
-# capstoneProject1
+# capstone-project-1
 html online resume
